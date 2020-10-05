@@ -1,5 +1,7 @@
 # DumpsterFire Toolset
 
+- This is a quick fork to make a playbook that can be run automagically, as the current auto-dumpsterfire function is broken. I do not know if/when it'll be updated, as the author of this has had to put this project on hold for now.
+
 DumpsterFire Toolset - "Security Incidents In A Box!"
 
 (Update 05/27/2020: Yes, I'll be migrating all of my Github projects to Python3 over the summer of 2020.)
